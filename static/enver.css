@@ -4,6 +4,14 @@ body {
 	flex-direction: column;
 }
 
+.video-container{
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
 main {
 	flex: 1 0 auto;
 }
@@ -23,9 +31,6 @@ footer .container {
 .action-btn-header{
 	position:relative;
 	margin-top:5px;
-}
-
-.header-rbutton{
 }
 
 .user-dropdown{
