@@ -1,5 +1,4 @@
-.active {
-	color: aqua !important;
+a.active{
 	/* background-color: chartreuse !important; */
 	font-weight: bold;
 }
